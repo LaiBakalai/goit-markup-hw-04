@@ -165,7 +165,10 @@ contacts-menu {
    background-repeat: no-repeat;
    background-position: center;
    background-size: cover;
+   max-width: 1440px;
+   margin: 0 auto;
    /*background-color: var(--herobackground-headings); */
+   
 }
 
 .hero-title {
